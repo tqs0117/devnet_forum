@@ -1,0 +1,27 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Frank Tan",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 7
+        },
+        {
+          "name": "SD-Access",
+          "years": 2
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ]
+    }
+  ]
+}
