@@ -13,7 +13,7 @@ name = json_data["DevNet_Forum_Participants"][0]["name"]
 location = json_data["DevNet_Forum_Participants"][0]["location"]
 manager = json_data["DevNet_Forum_Participants"][0]["manager"]
 blue_badge = json_data["DevNet_Forum_Participants"][0]["blue-badge"]
-products = json_data["DevNet_Forum_Participants"][0]["product"]
+products = json_data["DevNet_Forum_Participants"][0]["product"]  # type: list
 language = json_data["DevNet_Forum_Participants"][0]["language"]
 
 if blue_badge == True:
