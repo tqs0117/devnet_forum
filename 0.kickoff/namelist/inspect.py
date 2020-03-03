@@ -61,6 +61,6 @@ elif len(language) == 1:
 elif len(language) == 0:
     print("我没有什么编程经验.. o(╯□╰)o")
 
-print("希望通过参加DevNet Forum, 能与大家一起进步!")
+print("希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!")
 
 print("")
