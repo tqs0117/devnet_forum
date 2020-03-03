@@ -2,6 +2,7 @@ import sys
 import json
 from pprint import pprint
 
+
 json_file = str(sys.argv[1])
 
 namelist = open(json_file).read()
