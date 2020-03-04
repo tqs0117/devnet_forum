@@ -64,6 +64,7 @@ elif len(language) == 1:
 elif len(language) == 0:
     print("我没有什么编程经验.. o(╯□╰)o")
 
+print("")
 print(greetings)
 
 print("")
