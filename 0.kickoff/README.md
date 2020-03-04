@@ -16,6 +16,12 @@
 * Zhen Cui
 * Lillian Li
 
+## Notes
+* Upload your Json file to [devnet_forum](https://github.com/tqs0117/devnet_forum.git) repo
+* Contact Frank if you wanna be a speaker
+* Provide your feedback
+* Create Webex Teams for discussion
+
 ## References
 * Slides: https://github.com/tqs0117/devnet_forum/blob/1st_forum/0.kickoff/0-Kickoff.pptx
 * Recording: https://cisco.webex.com/cisco/ldr.php?RCID=78b9643794184799a92e7383e2e6cce8 Recording password: mVD7tkjp
