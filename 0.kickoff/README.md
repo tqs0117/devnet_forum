@@ -28,6 +28,37 @@
 * Recording: https://cisco.webex.com/cisco/ldr.php?RCID=78b9643794184799a92e7383e2e6cce8 Recording password: mVD7tkjp
 * Learn network programmability basics ( [DevNet Video Courses](https://developer.cisco.com/video/net-prog-basics/) )
 * Developer Workstation and Environment Setup ( [Step-by-Step Guide](https://developer.cisco.com/learning/modules/dev-setup) )
+* namelist.json
+```
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Frank Tan",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 7
+        },
+        {
+          "name": "SD-Access",
+          "years": 2
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    }
+  ]
+}
 
+```
 
 
