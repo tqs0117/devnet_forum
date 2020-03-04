@@ -18,7 +18,7 @@
 
 ## Notes
 * Upload your Json file to [devnet_forum](https://github.com/tqs0117/devnet_forum.git) repo
-* Forum will be scheduled at 4-5:30 every Tue.
+* Forum will be scheduled at 4-5:30pm every Tue.
 * Contact Frank if you wanna be a speaker
 * Provide your feedback
 * Create Webex Teams for discussion
