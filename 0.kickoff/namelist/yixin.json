@@ -1,0 +1,24 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Yixin Xing",
+      "team": "JAPAN-Lan",
+      "manager": "Mina Cai",
+      "location": "Dalian",
+      "blue-badge": false,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 5
+        },
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 分享编程开发的的乐趣!"
+    }
+  ]
+}
