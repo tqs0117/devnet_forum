@@ -11,7 +11,7 @@
 * Yongli Chen
 * Hardy Jin
 * Leo Cui
-* Wenlong Li
+* Wenlong Zhao
 * Haifeng Li
 * Zhen Cui
 * Lillian Li
