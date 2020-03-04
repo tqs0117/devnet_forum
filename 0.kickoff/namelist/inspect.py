@@ -17,6 +17,7 @@ manager = json_data["DevNet_Forum_Participants"][0]["manager"]
 blue_badge = json_data["DevNet_Forum_Participants"][0]["blue-badge"]
 products = json_data["DevNet_Forum_Participants"][0]["product"]  # type: list
 language = json_data["DevNet_Forum_Participants"][0]["language"]
+greetings = json_data["DevNet_Forum_Participants"][0]["greetings"]
 
 if blue_badge == True:
     os = "MacOS"
@@ -63,6 +64,6 @@ elif len(language) == 1:
 elif len(language) == 0:
     print("我没有什么编程经验.. o(╯□╰)o")
 
-print("希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!")
+print(greetings)
 
 print("")
