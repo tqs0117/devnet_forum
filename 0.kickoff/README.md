@@ -16,4 +16,6 @@
 * Zhen Cui
 * Lillian Li
 
-## Slides, Recording
+## References
+* Slides: https://github.com/tqs0117/devnet_forum/blob/1st_forum/0.kickoff/0-Kickoff.pptx
+* Recording: 
