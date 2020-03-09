@@ -1,7 +1,7 @@
 # 1.DevNet Introduction & Dev Environment Setup
 
 ## Date
-2020-03-10
+
 
 ## Agenda
 * Review 
