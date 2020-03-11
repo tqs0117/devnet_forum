@@ -30,7 +30,7 @@
 ## Notes
 * Everyone is required to pass DevNet Professional Certificate, which contains following two exams
     * DevNet Core exam
-    * any exam of [ENAUTO, CLAUTO, DCAUTO, SPAUTO, SAUTO, DEVOPS, DEVIOT, DEVWBX]
+    * Any exam of [ENAUTO, CLAUTO, DCAUTO, SPAUTO, SAUTO, DEVOPS, DEVIOT, DEVWBX]
 * Setup your developer environment follow the step-be-step guide
     * https://developer.cisco.com/learning/modules/dev-setup
 ∏
@@ -41,6 +41,8 @@
 * Slides
     * https://github.com/tqs0117/devnet_forum/blob/1st_forum/1.devnet_intro_dev_env_setup/1-Devnet_Intro.pptx
 * Recording
+    * https://cisco.webex.com/cisco/ldr.php?RCID=bda4f938dbaa4eef9be923e2ad385a15
+    * password: iYHTMRJ2
 * Learn network programmability basics ( [DevNet Video Courses](https://developer.cisco.com/video/net-prog-basics/) )
 * Developer Workstation and Environment Setup ( [Step-by-Step Guide](https://developer.cisco.com/learning/modules/dev-setup) )
 
