@@ -28,10 +28,13 @@
 * House Liang
 
 ## Notes
+* Everyone is required to pass DevNet Professional Certificate, which contains following two exams
+    * DevNet Core exam
+    * any exam of [ENAUTO, CLAUTO, DCAUTO, SPAUTO, SAUTO, DEVOPS, DEVIOT, DEVWBX]
 * Setup your developer environment follow the step-be-step guide
     * https://developer.cisco.com/learning/modules/dev-setup
-
-![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/1.devnet_intro_dev_env_setup/devnet_tools.png "devnet_tools")
+∏
+![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/1.devnet_intro_dev_env_setup/devnet_tools.png "devnet_toolsπ")
 
 
 ## References
