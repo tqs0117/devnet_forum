@@ -31,10 +31,12 @@
 * Setup your developer environment follow the step-be-step guide
     * https://developer.cisco.com/learning/modules/dev-setup
 
+![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/1.devnet_intro_dev_env_setup/devnet_tools.png "devnet_tools")
+
 
 ## References
 * Slides
-    * 
+    * https://github.com/tqs0117/devnet_forum/blob/1st_forum/1.devnet_intro_dev_env_setup/1-Devnet_Intro.pptx
 * Recording
 * Learn network programmability basics ( [DevNet Video Courses](https://developer.cisco.com/video/net-prog-basics/) )
 * Developer Workstation and Environment Setup ( [Step-by-Step Guide](https://developer.cisco.com/learning/modules/dev-setup) )
