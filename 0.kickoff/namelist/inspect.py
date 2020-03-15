@@ -1,6 +1,5 @@
 import sys
 import json
-from pprint import pprint
 
 # 1st_forum
 
