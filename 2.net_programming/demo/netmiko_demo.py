@@ -14,7 +14,7 @@ interface_cli = net_connect.send_command("show ip int b")
 
 print(interface_cli)
 
-cfg_commands = ["int g2", "ip add 100.1.1.1 255.255.255.0"]
+cfg_commands = ["int g2", "ip add 200.1.1.1 255.255.255.0"]
 
 
 interface_cli = net_connect.send_config_set(cfg_commands)
