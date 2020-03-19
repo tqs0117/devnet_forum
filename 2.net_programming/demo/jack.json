@@ -1,15 +1,15 @@
 {
   "DevNet_Forum_Participants": [
     {
-      "name": "Jack Tan",
-      "team": "GC-Lan",
-      "manager": "Jarod Zhu",
-      "location": "Dalian",
+      "name": "Jack Ma",
+      "team": "GC-Python",
+      "manager": "Chuck",
+      "location": "Wuhan",
       "blue-badge": true,
       "product": [
         {
-          "name": "Catalyst",
-          "years": 7
+          "name": "ACI",
+          "years": 4
         },
         {
           "name": "SD-Access",
@@ -27,7 +27,7 @@
         },
         {
           "name": "C",
-          "level": "beginner"
+          "level": "master"
         }
       ],
       "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
