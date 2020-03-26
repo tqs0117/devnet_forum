@@ -37,7 +37,7 @@
 * csr1000v is suggested to be test environment
 * hands-on: use tabulate library to parse namelist_all.json
 
-![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/3.net_api/api.png "api")
+![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/2.net_programming/skill_table_sample.png "sample")
 
 
 ## References
