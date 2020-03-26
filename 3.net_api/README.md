@@ -31,4 +31,12 @@
 
 
 ## References
-* 
+* Slides: 
+    * https://github.com/tqs0117/devnet_forum/blob/1st_forum/3.net_api/3-Network_APIs.pptx
+* Recording: 
+    * https://cisco.webex.com/cisco/ldr.php?RCID=d07bf10a56924187a028be65e7eb23ef
+    * password: uCaDURQ7
+* yang
+    * https://github.com/YangModels/yang/blob/master/vendor/cisco/xe/1711/ietf-interfaces.yang
+* yang-explorer
+    * https://github.com/CiscoDevNet/yang-explorer
