@@ -27,6 +27,8 @@
 * Hands-on
     * Use Python with Netconf (ncclient) to modify Interface-Config
     * Use Python with Restconf (requests) to modify Interface-Config
+![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/3.net_api/api.png "api")
+
 
 ## References
 * 
