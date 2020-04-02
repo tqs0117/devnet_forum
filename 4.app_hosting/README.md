@@ -4,7 +4,9 @@
 
 
 ## Agenda
-* 
+* App-hosting
+* Guestshell
+* IOx
 
 ## Attendees
 * 
