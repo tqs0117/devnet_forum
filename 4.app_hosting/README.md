@@ -22,6 +22,7 @@
 
 ## Notes
 * hands-on: Create a Python script to take desired action - ”no shut” a given interface
+* Docker Architecture: 
 
 ![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/4.app_hosting/docker_arch.png "sample")
 
