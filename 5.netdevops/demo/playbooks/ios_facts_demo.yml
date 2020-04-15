@@ -1,0 +1,12 @@
+--- 
+- name: Check IOS information
+  hosts: csr
+  gather_facts: False
+  connection: local
+
+  tasks:
+    - name: "Gathering Facts"
+      ios_facts:
+        gather_subset: hardware
+    - name: "Printing IOS Version"
+      debug: msg={{ansible_net_version}}

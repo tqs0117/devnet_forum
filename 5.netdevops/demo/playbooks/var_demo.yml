@@ -1,0 +1,10 @@
+--- 
+- name: var file sample
+  hosts: csr
+  gather_facts: False
+
+  tasks:
+    - name: "Print hostname"
+      debug: msg={{hostname}}
+    - name: "Print host_ip"
+      debug: msg={{host_ip}}

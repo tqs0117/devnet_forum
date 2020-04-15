@@ -1,0 +1,8 @@
+--- 
+- name: Enable IOSXE Model Driven Programmability
+  hosts: csr
+  gather_facts: False
+  connection: local
+
+  roles: 
+    - iosxe_mdp
