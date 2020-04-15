@@ -1,0 +1,15 @@
+haifeli-csr1kv#sh run | sec event
+event manager applet track-GigabitEthernet3
+ event syslog pattern "%TRACK-6-STATE: 1 ip sla 1 reachability Up -> Down"
+ action 0.0 cli command "en"
+ action 1.0 cli command "guestshell run python /flash/haifeng.py"
+haifeli-csr1kv#
+haifeli-csr1kv#
+haifeli-csr1kv#sh run | sec sla
+track 1 ip sla 1 reachability
+ip sla 1
+ icmp-echo 1.1.1.1 source-interface GigabitEthernet3
+ip sla schedule 1 life forever start-time now
+ event syslog pattern "%TRACK-6-STATE: 1 ip sla 1 reachability Up -> Down"
+haifeli-csr1kv#
+haifeli-csr1kv#
