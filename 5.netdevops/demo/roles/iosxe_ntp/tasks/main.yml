@@ -1,0 +1,8 @@
+---
+- name: Set new NTP server and source interface
+  ios_ntp:
+    server: 10.124.38.129
+    source_int: "{{mgmt_int}}"
+    logging: true
+    state: present
+

@@ -1,0 +1,10 @@
+---
+- name: Creates a list of import RTs for the VRF with the same parameters
+  ios_vrf:
+    name: test_vrf
+    rd: 1:100
+    route_import:
+      - 1:100
+      - 3:100
+
+

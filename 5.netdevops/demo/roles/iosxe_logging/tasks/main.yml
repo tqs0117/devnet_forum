@@ -1,0 +1,19 @@
+---
+- name: configure host logging
+  ios_logging:
+    dest: host
+    name: "{{syslog_server}}"
+    state: present
+
+- name: configure console logging level and facility
+  ios_logging:
+    dest: console
+    facility: local7
+    level: debugging
+    state: present
+
+- name: configure buffer size
+  ios_logging:
+    dest: buffered
+    size: 50000
+
