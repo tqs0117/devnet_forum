@@ -1,0 +1,8 @@
+---
+- name: Create ACLs
+  hosts: c9k
+  gather_facts: False
+  connection: local
+
+  roles:
+    - create_acl

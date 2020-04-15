@@ -1,0 +1,9 @@
+---
+- name: set ACL via CLI
+  ios_config:
+    lines:
+      - 10 permit ip 10.1.1.0 0.0.0.255 any
+      - 20 permit ip 10.1.2.0 0.0.0.255 any
+    parents: ['ip access-list extended {{hostname}}_acl']
+    before: no ip access-list extended {{hostname}}_acl
+

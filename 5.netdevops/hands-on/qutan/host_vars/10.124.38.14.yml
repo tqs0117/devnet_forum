@@ -1,0 +1,6 @@
+---
+hostname: "DLC-C03-Ru36-C9200-1"
+host_ip: "10.124.38.14"
+asn: 65111
+id: 1
+mgmt_int: G0/0
