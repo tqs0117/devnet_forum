@@ -24,12 +24,15 @@
     * Make sure there’s no ACL using the same ACL name
     * The ACL should allow traffic from network 10.1.1.0/24, 10.1.2.0/24 to any destination
     * Create role and playbook to finish this task
-* Ansible Doc: https://docs.ansible.com/
+* DevOps Infinity 
 
 ![alt text](https://github.com/tqs0117/devnet_forum/blob/1st_forum/5.netdevops/devops_infinity.png "devops_infinity")
 
-
 ## References
-* 
-
+* Slides:
+    * https://github.com/tqs0117/devnet_forum/blob/1st_forum/5.netdevops/5-NetDevOps.pptx
+* Recording:
+    * https://cisco.webex.com/cisco/ldr.php?RCID=4a16bcd4683242a8a3dcd8e3cf5db65f
+    * password: 5MxEtAG8
+* Ansible Doc: https://docs.ansible.com/
 
