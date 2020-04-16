@@ -5,4 +5,4 @@
 1. **Programming Fundamentals**
 1. **Network APIs**
 1. **Guestshell and App-hosting**
-1. **DevOps Introduction**
+1. **NetDevOps**
