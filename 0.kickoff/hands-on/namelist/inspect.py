@@ -1,7 +1,8 @@
+#!/usr/bin/env python3
+
 import sys
 import json
 
-# 1st_forum
 
 json_file = str(sys.argv[1])
 
