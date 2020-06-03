@@ -1,7 +1,0 @@
----
-- name: configure the login banner
-  ios_banner:
-    banner: login
-    text: "{{banner}}"
-    state: present
-

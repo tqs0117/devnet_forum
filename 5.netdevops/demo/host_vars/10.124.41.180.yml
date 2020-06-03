@@ -1,6 +1,0 @@
----
-hostname: "csr1000v-1"
-host_ip: "10.124.41.180"
-asn: 65111
-id: 1
-mgmt_int: G1
