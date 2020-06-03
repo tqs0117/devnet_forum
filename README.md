@@ -9,15 +9,7 @@
 1. **Guestshell and App-hosting**
 1. **NetDevOps**
 
-## Namelist of the 1st forum
-* Angus Ba
-* Frank Tan
-* Xu Peng
-* Yixin Xing
-* Yali Kai
-* Yongli Chen
-* Hardy Jin
-* Leo Cui
-* Wenlong Zhao
-* Haifeng Li
-
+## Attendees of the forum
+* APT-GC-Lan Team
+* APT-GC-Wireless Team
+* APT-GC-DNA Team

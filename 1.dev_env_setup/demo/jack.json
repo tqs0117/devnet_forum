@@ -1,0 +1,37 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Jack Ma",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 7
+        },
+        {
+          "name": "SD-Access",
+          "years": 2
+        },
+        {
+          "name": "SD-Wan",
+          "years": 3
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "pro"
+        },
+        {
+          "name": "C",
+          "level": "beginner"
+        }
+      ],
+      "hobbies": "Swimming, Reading"
+    }
+  ]
+}
+
