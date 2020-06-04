@@ -1,0 +1,28 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Qin Zhiwei",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 3
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        },
+        {
+          "name": "Chinese",
+          "level": "pro"
+        }
+      ],
+      "hobbies": "eat"
+    }
+  ]
+}
