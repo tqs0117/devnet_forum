@@ -42,10 +42,10 @@
 
 ## References
 * Slides: 
-    * https://github.com/tqs0117/devnet_forum/blob/gc_ent_ss/2.net_prog/2-Net_Prog.pptx
+    * https://github.com/tqs0117/devnet_forum/blob/1st_forum/2.net_programming/2-Net_Prog.pptx
 * Recording: 
-    *https://cisco.webex.com/cisco/ldr.php?RCID=7de03bbae7ce43649dff5a764a912560
-    * password: eHeZyZZ7
+    * https://cisco.webex.com/cisco/ldr.php?RCID=7961e16273374f1e8e509678ab2efddc
+    * password: dNBPibf2
 * CALO Automated OVA Deployment
     * https://calo-docs.cisco.com/doku.php?id=external:cloudforms:ova_automation
 * Use PyCharm to create a project from Github
