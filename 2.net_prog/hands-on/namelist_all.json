@@ -1,0 +1,157 @@
+{
+  "DevNet_Forum_Participants": [
+    {
+      "name": "Frank Tan",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 7
+        },
+        {
+          "name": "SD-Access",
+          "years": 2
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    },
+    {
+      "name": "Angus Ba",
+      "team": "GC-Lan",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 5
+        }
+
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    },
+    {
+      "name": "Haifeng Li",
+      "team": "GS",
+      "manager": "Kuihao Jin",
+      "location": "Dalian",
+      "blue-badge": false,
+      "product": [
+        {
+          "name": "Wireless",
+          "years": 1
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    },
+    {
+      "name": "Peng Xu",
+      "team": "GC-Solution",
+      "manager": "Jarod Zhu",
+      "location": "Dalian",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 6
+        },
+        {
+          "name": "SD-Access",
+          "years": 1
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    },
+    {
+      "name": "Yali Kai",
+      "team": "JP-Lan",
+      "manager": "Mina Cai",
+      "location": "Dalian",
+      "blue-badge": false,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 5
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "很开心能跟各位一起学习，希望通过参加DevNet Forum, 能提到自己的support能力!"
+    },
+    {
+      "name": "Yixin Xing",
+      "team": "JAPAN-Lan",
+      "manager": "Mina Cai",
+      "location": "Dalian",
+      "blue-badge": false,
+      "product": [
+        {
+          "name": "Catalyst",
+          "years": 5
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 分享编程开发的的乐趣!"
+    },
+    {
+      "name": "Yongli Chen",
+      "team": "GC-Solution",
+      "manager": "Jarod Zhu",
+      "location": "BeiJing",
+      "blue-badge": true,
+      "product": [
+        {
+          "name": "Wireless",
+          "years": 3
+        },
+        {
+          "name": "SD-Access",
+          "years": 2
+        }
+      ],
+      "language": [
+        {
+          "name": "python",
+          "level": "beginner"
+        }
+      ],
+      "greetings": "希望通过参加DevNet Forum, 能与大家一起分享学习的快乐!"
+    }
+  ]
+}
